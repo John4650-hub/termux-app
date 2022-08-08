@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - master
+      - android-5
   pull_request:
     branches:
       - android-5
