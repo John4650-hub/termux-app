@@ -3,10 +3,10 @@ name: Build
 on:
   push:
     branches:
-      - android-5
+      - master
   pull_request:
     branches:
-      - android-5
+      - master
 
 jobs:
   build:
