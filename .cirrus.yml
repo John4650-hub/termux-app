@@ -8,7 +8,7 @@ task:
   script: ./gradlew test
 
 task:
-  name: debug-build
+  name: debug-build_apk
 
   depends_on:
     - tests
